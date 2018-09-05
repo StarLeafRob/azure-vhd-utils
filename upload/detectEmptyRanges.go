@@ -5,10 +5,10 @@ import (
 	"io"
 	"math"
 
-	"github.com/Microsoft/azure-vhd-utils/vhdcore/block/bitmap"
-	"github.com/Microsoft/azure-vhd-utils/vhdcore/common"
-	"github.com/Microsoft/azure-vhd-utils/vhdcore/diskstream"
-	"github.com/Microsoft/azure-vhd-utils/vhdcore/footer"
+	"github.com/StarLeafRob/azure-vhd-utils/vhdcore/block/bitmap"
+	"github.com/StarLeafRob/azure-vhd-utils/vhdcore/common"
+	"github.com/StarLeafRob/azure-vhd-utils/vhdcore/diskstream"
+	"github.com/StarLeafRob/azure-vhd-utils/vhdcore/footer"
 )
 
 // DataWithRange type describes a range and data associated with the range.

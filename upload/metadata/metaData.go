@@ -11,8 +11,8 @@ import (
 	"time"
 
 	"github.com/Azure/azure-sdk-for-go/storage"
-	"github.com/Microsoft/azure-vhd-utils/upload/progress"
-	"github.com/Microsoft/azure-vhd-utils/vhdcore/diskstream"
+	"github.com/StarLeafRob/azure-vhd-utils/upload/progress"
+	"github.com/StarLeafRob/azure-vhd-utils/vhdcore/diskstream"
 )
 
 // The key of the page blob metadata collection entry holding VHD metadata as json.

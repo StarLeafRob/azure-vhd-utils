@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"time"
 
-	"github.com/Microsoft/azure-vhd-utils/vhdcore"
-	"github.com/Microsoft/azure-vhd-utils/vhdcore/common"
+	"github.com/StarLeafRob/azure-vhd-utils/vhdcore"
+	"github.com/StarLeafRob/azure-vhd-utils/vhdcore/common"
 )
 
 // Footer represents the footer of the vhd, the size of the footer is 512 bytes.

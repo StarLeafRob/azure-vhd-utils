@@ -1,8 +1,8 @@
 package bat
 
 import (
-	"github.com/Microsoft/azure-vhd-utils/vhdcore/header"
-	"github.com/Microsoft/azure-vhd-utils/vhdcore/reader"
+	"github.com/StarLeafRob/azure-vhd-utils/vhdcore/header"
+	"github.com/StarLeafRob/azure-vhd-utils/vhdcore/reader"
 )
 
 // BlockAllocationTableFactory type is used to create BlockAllocationTable instance by reading BAT
